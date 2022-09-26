@@ -10,3 +10,6 @@ Note that key-like charms may not display correctly on the key timeline if you a
 By default, both the key timeline and stag timeline will be displayed. Whether they are displayed or not is changeable in the global settings.
 
 Changes to the global settings will apply retroactively to existing saves (assuming the mod was installed when the save was created).
+
+## Dependencies
+FStats
