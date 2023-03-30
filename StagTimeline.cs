@@ -14,7 +14,7 @@ namespace AdditionalTimelines
             [nameof(PlayerData.openedCrossroads)] = "Forgotten Crossroads",
             [nameof(PlayerData.openedGreenpath)] = "Greenpath",
             [nameof(PlayerData.openedFungalWastes)] = "Queen's Station",
-            [nameof(PlayerData.openedGardensStagStation)] = "Queen's Gardens",
+            [nameof(PlayerData.openedRoyalGardens)] = "Queen's Gardens",
             [nameof(PlayerData.openedRuins1)] = "City Storerooms",
             [nameof(PlayerData.openedRuins2)] = "King's Station",
             [nameof(PlayerData.openedRestingGrounds)] = "Resting Grounds",
